@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.nav-header-container {
+    width: 100%;
+}
+
+.nav-menu-list {
+    padding-left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-menu-item {
+    color: violet;
+    font-family: "Roboto";
+    font-size: 16px;
+    list-style-type: none;
+}
+
+.nav-item-link {
+    margin-right: 15px;
+}
